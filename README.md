@@ -79,7 +79,7 @@ Estos botones escriben el valor en el **Field 1** del canal de control, el cual 
 ```
 iot-weather-project/
 ├── firmware/
-│   ├── API_THINGSPEAK.ino
+│   ├── main.ino
 └── README.md
 ```
 
