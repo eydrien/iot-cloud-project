@@ -6,7 +6,10 @@ Este proyecto implementa un sistema **IoT (Internet of Things)** basado en **ESP
 
 <p align="center">
 <img width="1162" height="712" alt="image" src="https://github.com/user-attachments/assets/c50b6848-ba12-4007-8dd8-975a501d8a49" />
-![IMG_20251026_183004](https://github.com/user-attachments/assets/eb1d4e0f-edab-4338-b7b0-2626a4bc3005)
+
+![IMG_20251026_183004](https://github.com/user-attachments/assets/466738a2-2a7b-413c-9d05-7f83cf5629b4)
+
+
 </p>
 
 
